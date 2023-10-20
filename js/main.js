@@ -6,7 +6,7 @@ oldgreeting.greet()
 
 function basicHaiku()
 {
-    return ["Toward those short trees","We saw a batman descending","On a day in winter."]
+    return ["Ik ben calvin","We saw a batman descending","On a day in winter."]
 }
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
